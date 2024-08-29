@@ -128,4 +128,15 @@
     width: 60vw;
     border-radius: 0 0 20px 20px;
   }
-  
+  //Código omitido
+
+.container__botao {
+    display: none
+}
+.lista-menu__titulo {
+  color: var(--laranja);
+  font-weight: 700;
+}
+.container__botao {
+  display: none;
+}
