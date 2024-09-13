@@ -11,7 +11,7 @@ h1 {
     --cor-de-fundo: #EBECEE;
 }
 
-body {
+.body {
     background-color: var(--cor-de-fundo);
 }
 
@@ -74,7 +74,7 @@ h1 {
       //Código omitido
       //Código omitido
 
-body {
+.body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
     font-size: 16px;
@@ -91,14 +91,9 @@ body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
 }
-body {
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
-    font-size: 16px;
-    font-weight: 400;
 /* código omitido */
-@import url("styles/banner.css");
+//Código omitido
 
-/* código omitido */
+@import url("styles/carrossel.css")
 
-  
+//Código omitido
